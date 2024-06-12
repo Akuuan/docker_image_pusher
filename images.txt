@@ -5,3 +5,4 @@ openjdk
 neo4j
 mysql
 redis
+openjdk:8-jdk-alpine
