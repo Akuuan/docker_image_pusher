@@ -1,7 +1,6 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
-openjdk
 neo4j
 mysql
 redis
