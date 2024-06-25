@@ -5,5 +5,3 @@ neo4j
 mysql
 redis:7.4-rc1-alpine
 openjdk:8-jdk-alpine
-python:3.10.0-windowsservercore-1809
-
