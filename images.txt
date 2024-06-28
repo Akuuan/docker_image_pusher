@@ -1,11 +1,1 @@
-nginx:stable-alpine
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
-neo4j
-mysql
-redis:7.4-rc1-alpine
-openjdk:8-jdk-alpine
-tomcat:9.0-jdk8-temurin
-mysql/mysql-server
-eosphorosai/dbgpt:latest
 mongo:8.0.0-rc9
