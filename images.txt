@@ -8,3 +8,4 @@ openjdk:8-jdk-alpine
 tomcat:9.0-jdk8-temurin
 mysql/mysql-server
 eosphorosai/dbgpt:latest
+mongo:8.0.0-rc9
