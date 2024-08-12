@@ -1,1 +1,5 @@
-python:3.7.3
+mongo:5.0.18
+fastgpt-sandbox:latest
+fastgpt:v4.8.8
+mysql:8.0.36
+one-api:latest
